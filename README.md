@@ -35,7 +35,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyunusali&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=003559" alt="iamyunusali" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamyunusali&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=003559&amp;count_private=true" alt="iamyunusali" />
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/iamyunusali/count.svg" alt="visitor badge"/></p>
