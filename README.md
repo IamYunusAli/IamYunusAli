@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yunus Ali</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=0074C392&center=true&lines=I+'m+A+Software+Engineer;A+student+%2C+Blockchain+enthusiast;And+a+mentor.;Nice+to+meet+you.)](https://git.io/typing-svg)
+
 <p align="left"> <a href="https://twitter.com/iamyunusali" target="blank"><img src="https://img.shields.io/twitter/follow/iamyunusali?logo=twitter&style=for-the-badge" alt="iamyunusali" /></a> </p>
 
 - 🌱 I’m currently learning **Ruby on rails, Nodejs , Java**
@@ -32,6 +34,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamyunusali&theme=gruvbox&background=003559&ring=FFFFFF&fire=FFFFFF&currStreakNum=9F9F9F&dates=9F9F9F&sideNums=9F9F9F&currStreakLabel=9F9F9F&sideLabels=9F9F9F)](https://git.io/streak-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyunusali&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=003559" alt="iamyunusali" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamyunusali&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=003559&amp;count_private=true" alt="iamyunusali" />
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/iamyunusali/count.svg" alt="visitor badge"/></p>
