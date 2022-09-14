@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamyunusali" target="blank"><img src="https://img.shields.io/twitter/follow/iamyunusali?logo=twitter&style=for-the-badge" alt="iamyunusali" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on rails, Nodejs , Java**
+- 🌱 I’m currently learning **Ruby on rails, Nodejs , Java, TypeScript **
 
 - 💬 Ask me about **Html,CSS,React,Javascript,Flutter**
 
