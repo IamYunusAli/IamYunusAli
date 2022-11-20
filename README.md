@@ -7,7 +7,6 @@
 
 [![Profile badge](https://www.codewars.com/users/iamyunusali/badges/large)](https://www.codewars.com/users/iamyunusali)
 
-<p> <a href="https://twitter.com/iamyunusali" target="blank"><img src="https://img.shields.io/twitter/follow/iamyunusali?logo=twitter&style=for-the-badge" alt="iamyunusali" /></a> </p>
 
 🌱 I’m currently learning **Ruby on rails, Nodejs , Java, TypeScript**
 
