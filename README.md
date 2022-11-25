@@ -1,3 +1,5 @@
+
+<div align="center">
 <h1 align="center">Hi 👋, I'm Yunus Ali</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
@@ -5,13 +7,13 @@
 
 [![Profile badge](https://www.codewars.com/users/iamyunusali/badges/large)](https://www.codewars.com/users/iamyunusali)
 
-<p align="left"> <a href="https://twitter.com/iamyunusali" target="blank"><img src="https://img.shields.io/twitter/follow/iamyunusali?logo=twitter&style=for-the-badge" alt="iamyunusali" /></a> </p>
+<p> <a href="https://twitter.com/iamyunusali" target="blank"><img src="https://img.shields.io/twitter/follow/iamyunusali?logo=twitter&style=for-the-badge" alt="iamyunusali" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on rails, Nodejs , Java, TypeScript**
+🌱 I’m currently learning **Ruby on rails, Nodejs , Java, TypeScript**
 
-- 💬 Ask me about **Html,CSS,React,Javascript,Flutter**
+💬 Ask me about **Html,CSS,React,Javascript,Flutter**
 
-- 📫 How to reach me **aliyunus291@gmail.com**
+📫 How to reach me **aliyunus291@gmail.com**
 
 <div align="center">
 <h3>Connect with me:</h3>
@@ -30,15 +32,30 @@
 [4]: https://telegram.me/iamyunus
 
 
-<h3>Languages</h3>
+<h3>Languages and Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,ruby,py,java,dart,react,redux,vue,html,css,bootstrap,tailwind,nextjs,flutter" />
+  </a>
+</p>
 
-<h3> Frameworks</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=webpack,vercel,postgres,mongodb,supabase,kubernetes,docker,rails,nodejs," />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,figma,ai,xd,pr,ps,ae" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,bash,linux" />
+  </a>
+</p>
 
-<h3> Databases</h3>
-
-
-<h3> Tools</h3>
 
 </div>
 
