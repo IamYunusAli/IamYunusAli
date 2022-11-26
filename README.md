@@ -34,24 +34,24 @@
 
 <h3>Languages and Tools</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=js,ts,ruby,py,java,dart,react,redux,vue,html,css,bootstrap,tailwind,nextjs,flutter" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a >
     <img src="https://skillicons.dev/icons?i=webpack,vercel,postgres,mongodb,supabase,kubernetes,docker,rails,nodejs," />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=blender,figma,ai,xd,pr,ps,ae" />
   </a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=git,vscode,bash,linux" />
   </a>
 </p>
@@ -59,14 +59,17 @@
 
 </div>
 
-## 📈 Github Stats
+<!-- ## 📈 Github Stats -->
 <details close="true">
+
+<summary><b>📈 Github Stats</b></summary>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamyunusali&theme=gruvbox&background=003559&ring=FFFFFF&fire=FFFFFF&currStreakNum=9F9F9F&dates=9F9F9F&sideNums=9F9F9F&currStreakLabel=9F9F9F&sideLabels=9F9F9F)](https://git.io/streak-stats)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyunusali&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=003559" alt="iamyunusali" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamyunusali&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=003559&amp;count_private=true" alt="iamyunusali" />
  </details>
 
-
+<br>
+<br>
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/iamyunusali/count.svg" alt="visitor badge"/></p>
