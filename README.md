@@ -59,11 +59,11 @@
 
 </div>
 
-<summary><b>📈 Github Stats</b></summary>
+## 📈 Github Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamyunusali&theme=gruvbox&background=003559&ring=FFFFFF&fire=FFFFFF&currStreakNum=9F9F9F&dates=9F9F9F&sideNums=9F9F9F&currStreakLabel=9F9F9F&sideLabels=9F9F9F)](https://git.io/streak-stats)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <br>
 <br>
