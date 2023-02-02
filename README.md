@@ -8,9 +8,9 @@
 [![Profile badge](https://www.codewars.com/users/iamyunusali/badges/large)](https://www.codewars.com/users/iamyunusali)
 
 
-🌱 I’m currently learning **Ruby on rails, Nodejs , Java, TypeScript**
+🌱 I’m currently learning **Ruby on Rails, Nodejs, Java, TypeScript**
 
-💬 Ask me about **Html,CSS,React,Javascript,Flutter**
+💬 Ask me about **HTML, CSS, React, JavaScript, Flutter**
 
 📫 How to reach me **aliyunus291@gmail.com**
 
