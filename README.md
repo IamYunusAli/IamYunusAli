@@ -34,24 +34,24 @@
 <h3>Languages and Tools</h3>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=js,ts,ruby,py,java,dart,react,redux,vue,html,css,bootstrap,tailwind,nextjs,flutter" />
+    <img src="https://skillicons.dev/icons?i=js,ts,ruby,py,react,redux,vue,html,css,tailwind,nextjs" />
   </a>
 </p>
 
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=webpack,vercel,postgres,mongodb,supabase,kubernetes,docker,rails,nodejs," />
+    <img src="https://skillicons.dev/icons?i=webpack,postgres,mongodb,supabase,docker,rails,nodejs," />
   </a>
 </p>
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=blender,figma,ai,xd,pr,ps,ae" />
+    <img src="https://skillicons.dev/icons?i=blender,figma,ai,xd,ps," />
   </a>
 </p>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=git,vscode,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,bash" />
   </a>
 </p>
 
