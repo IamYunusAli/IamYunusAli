@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1 align="center">Hi 👋, I'm Yunus Ali</h1>
-<h3 align="center">A passionate ML Engineer | Software Engineer </h3>
+<h3 align="center">A passionate Software Engineer </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=0074C392&center=true&lines=I+'m+A+Software+Engineer;A+student+%2C+Blockchain+enthusiast;And+a+mentor.;Nice+to+meet+you.)](https://git.io/typing-svg)
 
