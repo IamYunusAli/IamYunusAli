@@ -7,8 +7,6 @@
 
 [![Profile badge](https://www.codewars.com/users/iamyunusali/badges/large)](https://www.codewars.com/users/iamyunusali)
 
-📫 How to reach me **yunadevefy@gmail.com**
-
 <div align="center">
 
 </div>
